@@ -1,0 +1,8 @@
+C:\Users\Shib\Desktop\Login\Login\bin\Debug\Login.exe
+C:\Users\Shib\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.pdb
+C:\Users\Shib\Desktop\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
